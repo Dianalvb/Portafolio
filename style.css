@@ -162,3 +162,52 @@ p{
     background: #171717;
     padding-bottom: 0;
 }
+
+.ini {
+    background: url(img/venvim.png)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.inia {
+    background: url(img/entre.png)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.inib {
+    background: url(img/venvim.png)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.inic {
+    background: url(img/tmiim.png)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.inid {
+    background: url(img/tecnologiasim.png)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.inie {
+    background: url(img/pagweb.png)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.inif {
+    background: url(img/movil.png)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
